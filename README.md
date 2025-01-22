@@ -2,7 +2,7 @@
 
 <blockquote>
   <p>Final project for my OS course @ UniVR — A.Y. 2023/2024. A simple documentation (written in Italian) can be found 
-  <a href="https://github.com/lorenzodbr/word-automata/blob/main/Documentazione.pdf](https://github.com/nonAndre/Tic-Tac-Toe/blob/main/Relazione.pdf">here</a>
+  <a href="https://github.com/nonAndre/Tic-Tac-Toe/blob/main/Relazione.pdf">here</a>
   </p>
 </blockquote>
 <h1>Description</h1>
