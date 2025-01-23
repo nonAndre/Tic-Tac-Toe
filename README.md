@@ -37,17 +37,17 @@
 </blockquote>
 
 <div align="center">
-<img src="https://github.com/nonAndre/Tic-Tac-Toe/blob/main/videos/normalGame.gif" alt="Demo Gif" width="928" height="528" style="border: 1px solid #ccc; padding: 10px;">
+<img src="https://github.com/nonAndre/Tic-Tac-Toe/blob/main/videos/normalGame.gif" alt="Demo Gif"  style=" max-width: 100%; border: 1px solid #ccc; padding: 10px;">
 </div>
 
 <blockquote>You can also stop the game from the server</blockquote>
 
 <div align="center">
-<img src="https://github.com/nonAndre/Tic-Tac-Toe/blob/main/videos/gameEnding.gif" alt="Demo Gif" width="928" height="528" style="border: 1px solid #ccc; padding: 10px;">
+<img src="https://github.com/nonAndre/Tic-Tac-Toe/blob/main/videos/gameEnding.gif" alt="Demo Gif"  style=" max-width: 100%; border: 1px solid #ccc; padding: 10px;">
 </div>
 
 <blockquote>You can also play against a bot</blockquote>
 
 <div align="center">
-<img src="https://github.com/nonAndre/Tic-Tac-Toe/blob/main/videos/autoPlay.gif" alt="Demo Gif" width="928" height="528" style="border: 1px solid #ccc; padding: 10px;">
+<img src="https://github.com/nonAndre/Tic-Tac-Toe/blob/main/videos/autoPlay.gif" alt="Demo Gif"  style="max-width: 100%;border: 1px solid #ccc; padding: 10px;">
 </div>
